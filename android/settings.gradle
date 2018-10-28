@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeMapsApp'
+
+include ':app'
